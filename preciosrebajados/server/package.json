@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend afiliatesweb",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "create:localfile": "node localfile.js",
+    "create:localfile:dev": "node --watch localfile.js",
+    "create:postgres": "node postgres.js",
+    "create:postgres:dev": "node --watch postgres.js",
+    "create:mongo": "node mongo.js",
+    "create:mongo:dev": "node --watch mongo.js"
+  },
+  "author": "Jorge Daza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "16.3.1",
+    "express": "4.18.2",
+    "mongodb": "^6.3.0",
+    "pg": "8.11.3"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}

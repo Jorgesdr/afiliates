@@ -1,0 +1,63 @@
+.contact {
+    width: 90em;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.contact-info {
+    width: 50%;
+    margin: auto;
+    align-items: center;
+}
+
+.contact-info p {
+    font-size: 16px;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: 1fr;
+
+    margin: 10px auto;
+}
+
+.form-form {
+    display: grid;
+    align-items: center;
+}
+
+.form-form label {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.form-form label span {
+    font-size: 10px;
+}
+
+.form input {
+    background: #212121;
+    width: 50%;
+    margin: 15px auto;
+}
+
+
+
+textarea {
+    background: #212121;
+    resize: none;
+    height: 250px;
+    width: 90%;
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 15px;
+    padding: 10px 10px;
+    margin: 15px auto;
+}
+
+.form button {
+    width: 80px;
+    align-items: center;
+    margin: 10px auto;
+}

@@ -1,0 +1,135 @@
+typeproduct{
+    aw_deep_link: string,
+    product_name: string,
+    aw_product_id: int,    
+    merchant_image_url: string,
+    description: string,    
+    search_price: float,
+    merchant_name: string,
+    merchant_id: int,
+    category_name: string,
+    category_id: int,
+    store_price: string,
+    delivery_cost: string,
+    display_price: string,
+    brand_name: string,
+    brand_id: int,
+    rrp_price: int,
+    alternate_image: string,
+    alternate_image_three: string,
+    alternate_image_four: string,
+    alternate_image_two: string,
+    large_image: string,
+    rating: int
+}
+
+/*links afiliados*/
+Link al producto: aw_deep_link->url afiuliados
+
+*/imagenes/*
+Url imagel del producto: merchant_image_url
+otra img  : alternate_image
+segunda imagen: alternate_image_two
+tercera imagen: alternate_image_three
+alternate_image_four
+
+*/producto/*
+nombre del producto: product_name
+Id del producto de awin: aw_product_id
+descripcion del producto: description
+
+*/categoria/*
+categoria del producto: merchant_category
+categoria del producto en ingles: category_name--> coger este y traducirlo
+
+
+{
+    Cosmetics,
+    Bags,
+    Bodycare & Fitness,
+    Cables,
+    Computer Components ,
+    Computers ,
+    Furniture,
+    Men's Sportswear,
+    Vacuum Cleaners,
+    Home Accessories,
+    DIY,
+    Shaving,
+    Fragrance,
+    Skincare,      
+    Health,
+    Peripherals  ,
+    Gadgets,
+    General Household,
+    Haircare Appliances,
+    Haircare Products,
+    Keyboards,
+    Laptops,
+    Men's Footwear,
+    Men's Outerwear,
+    Peripherals,
+    Racket Sports,
+    Television Accessories,   
+    Wireless & Networking
+
+    TRADUCCION:
+
+    cosméticos,
+    Bolsas,
+    cuidado corporal y fitness,??
+    Cables,
+    Componentes de Ordenadores ,
+    Ordenadores ,
+    Muebles,
+    ropa deportiva para hombres,
+    Aspiradoras,
+    Accesorios de casa,
+    bricolaje,
+    Afeitado,
+    Fragancia,
+    Protección de la piel,    
+    Salud,
+    periféricos,
+    Gadgets,
+    hogar general,??
+    aparatos para el cuidado del cabello,
+    Productos para el cuidado del cabello,
+    Teclados,
+    ordenadores portátiles,
+    calzado de hombre,
+    ropa de abrigo para hombre,
+    periféricos,
+    deportes de raqueta,
+    accesorios de televisión,    
+    Redes inalámbricas
+}
+
+*/nombre tienda/*
+nombre de la tienda: merchan_name
+
+/*envio*/
+coste del envio: delivery_cost -->cuidado que algunos ponen el peso del producto
+tiempo de envio: custom_1
+
+marca del producto: brand_name
+si el producto es nuevo, usado o reacondicionado: condition
+color: colour
+
+
+
+category_id 
+
+((display_price*100)/store_price)-100-->porcentaje descuento 
+(())
+
+if (merchan_name==='pccomponentes'){
+
+si el rrp_price es mayor que el display_price/search_price hay descuento pccomponentes
+}else{
+
+miro el store_price es menor que el display_price/ search_price hay descuento en demas
+}
+
+
+

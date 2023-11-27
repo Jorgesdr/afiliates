@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Cosméticos",
+    "value": "Cosmetics",
+    "image": "http://localhost:3000/images/cosmeticos.jpeg",
+    "description": "Productos de belleza y cuidado personal, que incluyen maquillaje, cremas, y otros artículos para realzar la apariencia."
+  },
+  {
+    "title": "Bolsas",
+    "value": "bags",
+    "image": "http://localhost:3000/images/bags.jpeg",
+    "description": "Artículos de transporte como bolsos, mochilas y maletas para llevar objetos personales."
+  },
+  {
+    "title": "Cosméticos",
+    "value": "Bodycare & Fitness",
+    "image": "http://localhost:3000/images/cosmeticos.jpeg",
+    "description": "Productos relacionados con el cuidado corporal y equipos de fitness para mantener un estilo de vida saludable."
+  },
+  {
+    "title": "Cables",
+    "value": "Cables",
+    "image": "shttp://localhost:3000/images/cables.jpeg",
+    "description": "AConexiones y cables utilizados para la transmisión de datos y energía entre dispositivos electrónicos."
+  },
+  {
+    "title": "Componentes",
+    "value": "Computer Components",
+    "image": "shttp://localhost:3000/images/componentes.jpeg",
+    "description": "Dispositivos electrónicos para el procesamiento de información y ejecución de tareas diversas."
+  },
+  {
+    "title": "Muebles",
+    "value": "Furniture ",
+    "image": "http://localhost:3000/images/muebles.jpeg",
+    "description": "Artículos para el hogar como sillas, mesas y estanterías, diseñados para facilitar la vida diaria."
+  },
+  {
+    "title": "Ropa Deportiva para Hombres",
+    "value": "Men's Sportswear",
+    "image": "http://localhost:3000/images/sportswearmens.jpeg",
+    "description": "Ropa diseñada para actividades deportivas y de fitness dirigida a hombres."
+  },
+  {
+    "title": "Aspiradoras",
+    "value": "Vacuum Cleaners",
+    "image": "http://localhost:3000/images/aspiradora.jpeg",
+    "description": "Dispositivos para limpiar el polvo y la suciedad de superficies mediante succión."
+  },
+  {
+    "title": "Accesorios para el Hogar",
+    "value": "Home Accessories",
+    "image": "http://localhost:3000/images/homeaccesories.jpeg",
+    "description": "Artículos decorativos y prácticos para embellecer y mejorar el hogar."
+  },
+  {
+    "title": "Bricolaje",
+    "value": "DIY",
+    "image": "http://localhost:3000/images/diy.jpeg",
+    "description": "Artículos y herramientas para proyectos de bricolaje."
+  },
+  {
+    "title": "Afeitado",
+    "value": "Shaving",
+    "image": "http://localhost:3000/images/shaving.jpeg",
+    "description": "Productos y herramientas relacionados con el cuidado de la barba y el afeitado."
+  },
+  {
+    "title": "Fragancias",
+    "value": "Fragrances",
+    "image": "http://localhost:3000/images/fragances.jpeg",
+    "description": "Perfumes y aromas diseñados para la aplicación en el cuerpo con fines estéticos y olfativos."
+  },
+  {
+    "title": "Cuidado de la Piel",
+    "value": "Skincare",
+    "image": "http://localhost:3000/images/skincare.webp",
+    "description": "Productos para el cuidado de la piel, como cremas, lociones y limpiadores."
+  },
+  {
+    "title": "Ropa Abrigo para Hombres",
+    "value": "Men's Outerwear",
+    "image": "http://localhost:3000/images/outerwearmens.webp",
+    "description": "Prendas diseñadas para uso exterior, como abrigos y chaquetas para hombres."
+  },
+  {
+    "title": "Salud",
+    "value": "Health",
+    "image": "http://localhost:3000/images/health.webp",
+    "description": "Productos y servicios relacionados con el bienestar y la salud personal."
+  },
+  {
+    "title": "Periféricos",
+    "value": "Peripherals",
+    "image": "http://localhost:3000/images/perifericos.jpeg",
+    "description": "Dispositivos y accesorios complementarios para computadoras y dispositivos electrónicos."
+  },
+  {
+    "title": "Gadgets",
+    "value": "Gadgets",
+    "image": "http://localhost:3000/images/gadgets.jpeg",
+    "description": "Dispositivos electrónicos novedosos y prácticos, a menudo diseñados para "
+  },
+  {
+    "title": "Artículos para el Hogar",
+    "value": "General Household",
+    "image": "http://localhost:3000/images/generalhousehold.jpeg",
+    "description": "Productos y utensilios de uso diario en el hogar, como utensilios de cocina y herramientas."
+  },
+  {
+    "title": "Aparatos para el Cuidado del Cabello",
+    "value": "Haircare Appliances",
+    "image": "http://localhost:3000/images/haircare.webp",
+    "description": "Dispositivos y herramientas utilizados para el cuidado y estilo del cabello, como secadores y planchas."
+  },
+  {
+    "title": "Productos para el Cuidado del Cabello",
+    "value": "Haircare Products",
+    "image": "http://localhost:3000/images/haircareproducts.jpeg",
+    "description": "Productos químicos y naturales utilizados para el cuidado y mantenimiento del cabello, como champús y acondicionadores."
+  },
+  {
+    "title": "Teclados",
+    "value": "Keyboards ",
+    "image": "http://localhost:3000/images/keyboard.jpeg",
+    "description": "Dispositivos de entrada para computadoras y otros dispositivos electrónicos que permiten la entrada de datos."
+  },
+  {
+    "title": "Ordenadores Portátiles",
+    "value": "Laptops",
+    "image": "http://localhost:3000/images/portatiles.webp",
+    "description": "Computadoras portátiles diseñadas para la movilidad y la portabilidad."
+  },
+  {
+    "title": "Calzado para Hombres",
+    "value": "Men's Footwear",
+    "image": "http://localhost:3000/images/zapatillashombre.webp",
+    "description": "Zapatos y otros tipos de calzado diseñados para hombres."
+  },
+  {
+    "title": "Ordenadores",
+    "value": "Computer",
+    "image": "http://localhost:3000/images/computers.jpeg",
+    "description": "Dispositivos y accesorios complementarios para computadoras y dispositivos electrónicos."
+  },
+  {
+    "title": "Deportes de Raqueta",
+    "value": "Racket Sports",
+    "image": "http://localhost:3000/images/deportesraqueta.jpeg",
+    "description": "Equipamiento y productos relacionados con deportes que involucran el uso de raquetas, como tenis y bádminton."
+  },
+  {
+    "title": "Cuidado corporal y fitness",
+    "value": "Bodycare & Fitness",
+    "image": "http://localhost:3000/images/bodycarefitness.jpeg",
+    "description": "Artículos y productos relacionados con el cuidado personal y el deporte."
+  },
+  {
+    "title": "Redes",
+    "value": "Wireless & Networking",
+    "image": "http://localhost:3000/images/wireless.webp",
+    "description": "Productos y dispositivos para la conectividad inalámbrica y redes de datos."
+  },
+  {
+    "title": "Accesorios de televisión",
+    "value": "Television Accessories",
+    "image": "http://localhost:3000/images/accesoriestv.jpeg",
+    "description": "Artículos y dispositivos que complementan el uso de televisores, como soportes y controles remotos."
+  }
+]
